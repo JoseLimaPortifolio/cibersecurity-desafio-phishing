@@ -1,5 +1,7 @@
 # Phishing para captura de senhas do Facebook
 
+![Alt text](./face_inicial.png "face_inicial.png")
+
 ### Ferramentas
 
 - Kali Linux
